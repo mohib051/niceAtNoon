@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'CustomFont';
+    src: url('/src/assets/fonts/Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'CustomFont';
+    src: url('/src/assets/fonts/medium.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'CustomFont';
+    src: url('/src/assets/fonts/regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'CustomFont';
+    src: url('/src/assets/fonts/italic.woff2') format('woff2');
+}
