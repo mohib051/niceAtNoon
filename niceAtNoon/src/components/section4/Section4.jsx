@@ -3,7 +3,7 @@ import vote from "../../assets/vote.svg"
 
 const Section4 = () => {
   return (
-    <div id="wrapper" className=" p-[50px]">
+    <div id="wrapper" className=" p-[50px] bg-[#F4F4F1]">
         <div id="top">
             <h1 className="border-b-2 border-gray-900 text-xl font-semibold">Did some cool stuff for</h1>
         </div>

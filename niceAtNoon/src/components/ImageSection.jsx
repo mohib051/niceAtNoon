@@ -7,7 +7,7 @@ import img5 from "../assets/img5.webp"
 
 const ImageSection = () => {
   return (
-    <div className="w-full h-[100vh] flex gap-4 px-6 py-4 overflow-x-auto" >
+    <div className="w-full h-[100vh] flex gap-4 px-6 py-4 overflow-x-auto bg-[#E4E4E4]" >
         <img className="w-[33%] rounded-[80px]   object-cover" src={img1} alt="" />
         <img className="w-[33%] rounded-[80px]  object-cover" src={img2} alt="" />
         <img className="w-[33%] rounded-[80px]  object-cover" src={img3} alt="" />

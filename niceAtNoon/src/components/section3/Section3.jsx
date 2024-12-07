@@ -2,7 +2,7 @@ import bigimage from "../../assets/bigimage.webp";
 
 const Section3 = () => {
   return (
-    <div id="wrapper-div " className=" p-2">
+    <div id="wrapper-div " className=" p-2 bg-[#F4F4F1]">
         <div className="flex flex-col justify-center items-center text-center w-full   h-full p-3 gap-7">
                     <div id="top" className="">
                         <h3>Our belief</h3>

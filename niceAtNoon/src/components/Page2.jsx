@@ -3,7 +3,7 @@ import BottomPage2 from "./BottomPage2"
 
 const Page2 = () => {
   return (
-    <div>   
+    <div  className="bg-[#E4E4E4]">   
         <TopPage2/>
         <BottomPage2/>
     </div>

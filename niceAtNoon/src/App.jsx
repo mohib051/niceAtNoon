@@ -6,6 +6,7 @@ import Page2 from "./components/Page2";
 import SectionCard from "./components/sectionCard/SectionCard";
 import Section3 from "./components/section3/Section3";
 import Section4 from "./components/section4/Section4";
+import Footer from "./components/footer/Footer";
 const App = () => {
   return (
     <div>
@@ -17,6 +18,7 @@ const App = () => {
        <SectionCard/>
        <Section3/>
        <Section4/>
+       <Footer/>
     </div>
   )
 }
