@@ -1,5 +1,5 @@
 
-
+// eslint-disable-next-line react/prop-types
 const ContactList = ({name, company, phone}) => {
  
   console.log("in contact page",name, company, phone);
